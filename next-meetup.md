@@ -7,4 +7,4 @@ Due to the COVID-19 outbreak, all DC11331 physical meetings are canceled until f
 
 ## Virtual meeting
 
-- Next virtual meeting is the 28th August 2020. Informal presentations are welcome.
+- Next virtual meeting is the 28th August 2020. Informal presentations are welcome. [Access link](https://bbb.secin.lu/b/ale-eje-3gh)
