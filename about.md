@@ -21,3 +21,5 @@ Last Thursday of the month, 7pm - 10pm   **COVID** physical meetups are suspende
 - Official merch on RedBubble (to support us)
 - [t-shirts](https://www.redbubble.com/fr/i/t-shirt/DC11331-par-newsoft/37883608.BTWM1)
 - [hoodies and more](https://www.redbubble.com/fr/people/code1o6/works/39275355-dc11331)
+
+![hoodie](https://github.com/DC11331/website/blob/master/pictures/dc11331-hoodie.png)
