@@ -1,8 +1,8 @@
 
-##Code of conduct (fr)
+## Code of conduct (fr)
          
         
-###DC11331 – Code de conduite
+### DC11331 – Code de conduite
 
 Conduite dans les espaces de DC11331.
 Les lieux de DC11331 incluent nos rassemblements, événements, ateliers, canaux de communication, fil Twitter. Ce sont des lieux inclusifs où toutes les personnes doivent se sentir en sécurité et respectées.
