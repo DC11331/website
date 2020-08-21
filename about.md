@@ -8,3 +8,8 @@ About
     Most of the time there is a bit of lockpicking, bring your stuff.
     CFP for the meetup is open, send us an email at dcgroupparis@gmail.com if you want to give a talk (fr or eng).
 
+Contact 
+
+dcgroupparis@gmail.com
+Last Thursday of the month, 7pm - 10pm   **COVID** physical meetups are suspended until we get a better situation here, stay tuned with announcements on Twitter for online events.
+
