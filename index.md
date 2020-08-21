@@ -9,4 +9,4 @@ Feel free to ask us any questions via email or Twitter.
 
 See you soon!
 
-![logo](https://github.com/DC11331/website/blob/master/pictures/Logo_DC11331_flag.png)
+![logo](https://raw.githubusercontent.com/DC11331/website/master/pictures/Logo_DC11331_flag.png)
