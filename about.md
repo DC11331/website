@@ -13,7 +13,7 @@ Last Thursday of the month, 7pm - 10pm   **COVID** physical meetups are suspende
 
 # Get in touch
    
-- (Slack:)[dc11331.slack.com] no account? send a dm to @ko97551819 on twitter
+- [Slack](dc11331.slack.com) no account? send a dm to @ko97551819 on twitter
 - Twitter: [@dc11331](https://twitter.com/dc11331)
    
 # Support us
