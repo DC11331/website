@@ -1,3 +1,7 @@
+[index](./) - [about](./about)
+
+# Past and Current Talks
+
 | Date                | Topic                                                             |
 |---------------------|-------------------------------------------------------------------|
 | 2018 July 27th      | First defcongroup Paris meetup!                                   |
