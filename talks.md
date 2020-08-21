@@ -19,5 +19,5 @@
 | 2019 October 24th   | @kalin0x “Red Team report” 0dayz and unicorns                     |
 | 2019 November 28th  | @SecKoala “Powned logical controllers”                                                                  |
 | 2020 January 20th   | @kmkz_security and @gentilkiwi “Life of a Red Teamer”                                                                  |
-| 2020 February 27th  | @ko97551819 @adulau “I love Hardboxes”, OSINT for IoT & [MISP introduction and workflow](https://github.com/DC11331/website/raw/master/talks/20200227-misp-intro.pdf)             |
+| 2020 February 27th  | @ko97551819 @adulau “[I love Hardboxes](https://github.com/DC11331/website/raw/master/talks/20200227I-love-hardboxes-OSINT-for-IOT.pdf)”, OSINT for IoT & [MISP introduction and workflow](https://github.com/DC11331/website/raw/master/talks/20200227-misp-intro.pdf)             |
 
