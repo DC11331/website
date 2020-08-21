@@ -8,3 +8,5 @@ We invite you to read our Code of Conduct, in French.
 Feel free to ask us any questions via email or Twitter.
 
 See you soon!
+
+![logo](https://github.com/DC11331/website/blob/master/pictures/Logo_DC11331_flag.png)
