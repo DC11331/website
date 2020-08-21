@@ -1,5 +1,5 @@
 
-[about](./about) - [talks](./talks)
+[about](./about) - [talks](./talks) - [code of conduct](./code-of-conduct) - [defcongroups](./defcongroups)
 
 # DEF CON Group Paris
 
