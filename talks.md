@@ -1,4 +1,4 @@
-[index](./) - [about](./about)
+[index](./) - [about](./about) - [code of conduct](./code-of-conduct) - [defcongroups](./defcongroups) - [next meetup](./next-meetup)
 
 # Past and Current Talks
 
