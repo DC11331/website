@@ -1,3 +1,6 @@
+[about](./about) - [talks](./talks) - [index](./) - [next meetup](./next-meetup)
+
+
 ### defcongroups
                   
 “A DCG is a local meetup of volunteers who want to bring people together for learning opportunities, sharing, friends, and a slice of hacker life all year long.” April C. Wright
